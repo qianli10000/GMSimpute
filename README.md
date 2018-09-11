@@ -17,8 +17,6 @@ A tool to estimate and visualize the proportion of random missing peaks (i.e. ca
 
 # Install GTSimpute
 
-#Clone and download GTSimpute to a local folder 'path'; extract it to 'path/GTSimpute-master'.
+#Clone and download GTSimpute to a local folder 'path' as GTSimpute-master.zip.
 
-require(devtools)
-
-install('path/GTSimpute-master')
+install.packages("path/GTSimpute-master.zip", repos = NULL, type = "source")
