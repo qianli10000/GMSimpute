@@ -1,8 +1,8 @@
-Package: GTSimpute
-Title: Generalized Two-Step Lasso Method for Mass Spectrum Missing Data Imputation
+Package: GMSimpute
+Title: Generalized Mass Spectrum Missing Peaks Abundance Imputation
 Version: 0.0.1.0
 Authors@R: person("Qian", "Li", email = "qian.li10000@gmail.com", role = c("aut", "cre"))
-Description: GTSimpute implements the Two-Step Lasso (TS-Lasso) and compound minimum to recover 
+Description: GMSimpute implements the Two-Step Lasso (TS-Lasso) and compound minimum to recover 
              the abundance of missing peaks in mass spectrum analysis. TS-Lasso is a label-free 
              imputation method that handles various types of missing peaks simultaneously. This package 
              provides the procedure to generate missing peaks (or data) for simulation study, 
