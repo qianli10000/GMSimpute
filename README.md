@@ -15,8 +15,8 @@ A pipeline to generate different patterns and proportions of missing peaks for s
 ## MAR.est
 A tool to estimate and visualize the proportion of random missing peaks (i.e. caused by preprocessing) 
 
-# Install GTSimpute
+# Install GMSimpute
 
-#Clone and download GTSimpute to a local folder 'path' as GTSimpute-master.zip.
+#Clone and download GMSimpute to a local folder 'path' as GTSimpute-master.zip.
 
-install.packages("path/GTSimpute-master.zip", repos = NULL, type = "source")
+install.packages("path/GMSimpute-master.zip", repos = NULL, type = "source")
