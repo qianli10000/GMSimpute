@@ -4,7 +4,7 @@ GMSimpute is an R package that implements the Two-Step Lasso (TS-Lasso) and comp
 
 # Functions
 ## GMS.Lasso 
-Generalized Two-Step Lasso for missing peaks' abundance imputation
+Generalized Mass Spectrum missing peaks imputation with Two-Step Lasso as default algorithm
 
 ## TS.Lasso 
 Two-Step Lasso for missing peaks' abundance imputation
